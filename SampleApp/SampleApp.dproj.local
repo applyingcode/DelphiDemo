@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/01/04 15:41:53.000.839,=C:\Users\Nader Shallabi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/04 15:42:00.000.853,C:\Users\Nader Shallabi\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\Nader Shallabi\Desktop\Demos\Unit1.fmx</Transaction>
+    <Transaction>2017/01/04 15:42:00.000.853,C:\Users\Nader Shallabi\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Nader Shallabi\Desktop\Demos\Unit1.pas</Transaction>
+    <Transaction>2017/01/04 15:42:05.000.418,C:\Users\Nader Shallabi\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Nader Shallabi\Desktop\Demos\SampleApp.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PmacOS iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

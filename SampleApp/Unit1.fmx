@@ -1,0 +1,66 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 260
+  ClientWidth = 535
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object FMXLogo1: TFMXLogo
+    Align = Client
+    FMXLettersFill.Gradient.Points = <
+      item
+        Color = xFFBD3024
+        Offset = 0.000000000000000000
+      end
+      item
+        Color = xFFF08F30
+        Offset = 1.000000000000000000
+      end>
+    object GradientAnimation1: TGradientAnimation
+      AutoReverse = True
+      Enabled = True
+      Delay = 0.200000002980232200
+      Duration = 2.000000000000000000
+      Loop = True
+      OnProcess = GradientAnimation1Process
+      PropertyName = 'FMXLettersFill.Gradient'
+      StartValue.Points = <
+        item
+          Color = claBlack
+          Offset = 0.000000000000000000
+        end
+        item
+          Color = claWhite
+          Offset = 1.000000000000000000
+        end>
+      StartFromCurrent = True
+      StopValue.Points = <
+        item
+          Color = xFFC7AD2E
+          Offset = 0.000000000000000000
+        end
+        item
+          Color = xFFFBFBCE
+          Offset = 0.512422382831573500
+        end
+        item
+          Color = xFFFA993A
+          Offset = 1.000000000000000000
+        end>
+      StopValue.StartPosition.X = 0.500000000000000000
+      StopValue.StartPosition.Y = 1.000000000000000000
+      StopValue.StopPosition.X = 0.499999970197677600
+      StopValue.StopPosition.Y = 0.000000000000000000
+    end
+    object ShadowEffect1: TShadowEffect
+      Distance = 3.000000000000000000
+      Direction = 45.000000000000000000
+      Softness = 0.300000011920929000
+      Opacity = 0.600000023841857900
+      ShadowColor = claBlack
+    end
+  end
+end

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/01/04 15:38:26.000.781,=rtl.dcp</Transaction>
+    <Transaction>2017/01/04 15:38:29.000.253,=fmx.dcp</Transaction>
+    <Transaction>2017/01/04 15:38:29.000.243,=C:\Users\Nader Shallabi\Documents\Embarcadero\Studio\Projects\FMXLogoControl.pas</Transaction>
+    <Transaction>2017/01/04 15:38:57.000.375,=C:\Users\Nader Shallabi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/04 15:39:09.000.310,C:\Users\Nader Shallabi\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Nader Shallabi\Documents\Embarcadero\Studio\Projects\ArtboardFireLogo.pas</Transaction>
+  </Transactions>
+</BorlandProject>
